@@ -4,29 +4,18 @@ gt
 f
 rf
 ff
-rg
+pg
 t
 yh
 f
 rf
-rgt
-hyr
-fr
-e
-d
-<<<<<<< HEAD
-f
-ty
-jkjdfkdkl
-=======
-fjdjf
+add 
 dfjfj
 dfjdjf
 dfjdjfdfj
 fjdjf
 
 y
->>>>>>> features
 t
 
 rf
