@@ -14,9 +14,19 @@ hyr
 fr
 e
 d
+<<<<<<< HEAD
 f
 ty
 jkjdfkdkl
+=======
+fjdjf
+dfjfj
+dfjdjf
+dfjdjfdfj
+fjdjf
+
+y
+>>>>>>> features
 t
 
 rf
